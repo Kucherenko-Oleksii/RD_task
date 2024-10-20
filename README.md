@@ -19,7 +19,7 @@ Ensure you have Node.js installed on your system, If not, download and install i
 
 **Steps to Run:**
 
-1. Create a file named socks.js and paste the code into it;
+1. Create a file named script.js and paste the code into it / clone this repository using the __git clone url__ command;
 
 2. Open your terminal/command prompt and navigate to the folder where the script.js file is saved;
 
