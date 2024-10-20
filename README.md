@@ -15,16 +15,16 @@ Create a single line of code that collects all lost socks from the laundry, whic
 ## 🚀 How to Run:
 
 **Pre-requisites:**
-Ensure you have Node.js installed on your system, If not, download and install it from Node.js official website.
+Ensure you have Node.js installed on your system, If not, download and install it from Node.js official website https://nodejs.org/en/download/package-manager
 
 **Steps to Run:**
 
-1. Create a file named socks.js and paste the code into it.
+1. Create a file named socks.js and paste the code into it;
 
-2. Open your terminal/command prompt and navigate to the folder where the socks.js file is saved.
+2. Open your terminal/command prompt and navigate to the folder where the socks.js file is saved;
 
 3. Run the following command:
-   **node script.js**
+   **node script.js**;
 
 4. You will see the following output (depending on your input data):
 
