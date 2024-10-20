@@ -21,7 +21,7 @@ Ensure you have Node.js installed on your system, If not, download and install i
 
 1. Create a file named socks.js and paste the code into it;
 
-2. Open your terminal/command prompt and navigate to the folder where the socks.js file is saved;
+2. Open your terminal/command prompt and navigate to the folder where the script.js file is saved;
 
 3. Run the following command:
    **node script.js**;
